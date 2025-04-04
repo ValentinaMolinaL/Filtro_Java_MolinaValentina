@@ -38,6 +38,4 @@ public class Mision {
     public void setRecompensa(String recompensa) {
         this.recompensa = recompensa;
     }
-    
-    
 }
